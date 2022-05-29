@@ -29,3 +29,5 @@ This is a face recognition based security gate system to be installed at the ent
 9. 'Get yourself verified' can be used to detect and recognize faces through the web cam of the people entering the apartment.
 
 10. 'Entry Records' displays data of the people recognized through the web cam.
+
+**NOTE** - To connect the python files with MySQL database, I have used user="root", passwd="Hookrux@912" in **'app.py'** and **'detect.py'**.You are required to change these credentials according to your system.
